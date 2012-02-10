@@ -1,0 +1,4 @@
+aryan:passwort:21.01.2012:111:true;
+Arman:passwort:21.01.2012:111:true;
+Bob:affe:12.02.2011:666:true;
+Mary:fisch:11.11.2011:666:true;
